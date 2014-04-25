@@ -23,7 +23,7 @@ int url_blacklist_len = 3;
 
 // list of black-listed words for content filtering
 // any content in which any of these words occure, will be blocked
-char *word_blacklist[] = {"fake", "fixer", "algorithms"};
+char *word_blacklist[] = {"Arse", "fixer", "algorithms"};
 int word_blacklist_len = 3;
 
 int main(int argc, char **argv)
